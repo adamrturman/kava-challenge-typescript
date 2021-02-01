@@ -1,0 +1,13 @@
+.button {
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+}
+
+.emphasize {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.info {
+    margin-bottom: 5rem;
+}
